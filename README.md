@@ -77,7 +77,8 @@ O dashboard foi desenvolvido seguindo princípios de:
 - KPIs claros e objetivos
 - Storytelling orientado ao negócio
 
-<img width="1435" height="806" alt="image" src="LINK_DO_PRINT_DO_DASHBOARD" />
+<img width="1311" height="734" alt="image" src="https://github.com/user-attachments/assets/4df71ab7-ec37-45d8-b606-ad1a6a5606ee" />
+
 
 ---
 
