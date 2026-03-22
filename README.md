@@ -79,6 +79,16 @@ O dashboard foi desenvolvido seguindo princípios de:
 
 <img width="1311" height="734" alt="image" src="https://github.com/user-attachments/assets/4df71ab7-ec37-45d8-b606-ad1a6a5606ee" />
 
+<img width="1114" height="624" alt="image" src="https://github.com/user-attachments/assets/1628218d-89cb-4f39-8566-b6ce9064a7a1" />
+
+<img width="1110" height="618" alt="image" src="https://github.com/user-attachments/assets/09d9ac8c-bb4b-40b6-a375-be6369e65030" />
+
+<img width="1106" height="616" alt="image" src="https://github.com/user-attachments/assets/e5ac813c-6b7a-4cea-af99-4b745f00df66" />
+
+<img width="1107" height="618" alt="image" src="https://github.com/user-attachments/assets/c5d05794-300a-4289-b13e-9f5b1e5150b7" />
+
+
+
 
 ---
 
