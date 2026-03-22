@@ -1,88 +1,96 @@
-📊 Dashboard – Análise de Loja de Roupas (Power BI + Excel)
+# 📊 Dashboard – Análise de Loja de Roupas (Power BI + Excel)
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ec42ce9-a9bf-493b-9518-a7d3a1581360" />
+<img width="1420" height="566" alt="image" src="LINK_DA_SUA_CAPA_AQUI" />
 
 
-🔍 Visão Geral
+## 🔍 Visão Geral
+Este projeto foi desenvolvido com o objetivo de analisar o desempenho de vendas de uma loja de roupas,
+simulando um cenário real de negócio. O projeto abrange etapas fundamentais do processo analítico,
+como organização dos dados em Excel, tratamento, modelagem e construção de um dashboard gerencial no Power BI.
 
-Este projeto foi desenvolvido com o objetivo de analisar o desempenho de vendas de uma loja de roupas, simulando um cenário real de negócio. Foram aplicadas etapas de organização, limpeza e tratamento dos dados em Excel, seguidas pela construção de um dashboard gerencial no Power BI.
+O desenvolvimento foi realizado com foco em boas práticas de análise de dados e storytelling visual,
+permitindo transformar dados brutos em informações claras para apoio à tomada de decisão.
 
-O projeto foi estruturado com foco em boas práticas de análise de dados e storytelling visual, permitindo transformar dados brutos em informações claras e estratégicas para apoio à tomada de decisão.
+---
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
+O principal objetivo deste projeto é demonstrar, na prática, minhas habilidades em análise de dados
+e Business Intelligence, aplicando conceitos em um contexto de vendas.
 
-O principal objetivo deste projeto é demonstrar, na prática, minhas habilidades em análise de dados e Business Intelligence, utilizando dados comerciais para gerar insights relevantes.
+A análise busca responder perguntas comuns a um gestor comercial, como:
+- Qual é o faturamento total da loja?
+- Qual o ticket médio das vendas?
+- Quais são os produtos mais vendidos?
+- Como as vendas se comportam ao longo do tempo?
+- Qual o desempenho mensal da loja?
 
-A análise busca responder perguntas comuns a um gestor de vendas, como:
+---
 
-Qual é o faturamento total da loja?
-Qual o ticket médio das vendas?
-Quais são os produtos mais vendidos?
-Como estão distribuídas as vendas ao longo do tempo?
-Qual o desempenho mensal da loja?
-Existem padrões ou sazonalidades nas vendas?
-🛠 Tecnologias Utilizadas
-Excel – Limpeza, organização e tratamento dos dados
-Power BI – Modelagem, criação de medidas e visualizações
-DAX – Cálculo de indicadores e métricas
-Git e GitHub – Versionamento e documentação do projeto
-🗄 Estrutura dos Dados
+## 🛠 Tecnologias Utilizadas
+- **Excel** – Organização, limpeza e tratamento dos dados  
+- **Power BI** – Modelagem, criação de medidas e visualizações  
+- **DAX** – Cálculo de indicadores e métricas  
+- **Git & GitHub** – Versionamento e documentação do projeto  
 
-Os dados foram organizados de forma estruturada, garantindo consistência e facilidade de análise.
+---
+
+## 🗄 Estrutura dos Dados
+Os dados foram organizados de forma estruturada, garantindo consistência e qualidade para análise.
 
 Principais informações utilizadas:
+- Produtos  
+- Vendas  
+- Datas  
+- Valores  
+- Quantidades  
 
-Produtos
-Vendas
-Datas
-Valores
-Quantidades
+A estrutura dos dados permitiu a criação de indicadores relevantes para análise de desempenho comercial.
 
-A organização dos dados permitiu uma análise eficiente e a criação de indicadores relevantes para o negócio.
+---
 
-🔄 Tratamento e Preparação dos Dados (ETL)
-
-O processo de tratamento dos dados foi realizado utilizando Excel e Power BI:
-
-Excel: limpeza, padronização e organização inicial dos dados
-Power BI: criação de colunas calculadas, medidas e ajustes finais
+## 🔄 Tratamento e Preparação dos Dados (ETL)
+O tratamento dos dados foi realizado de forma híbrida:
+- **No Excel**: limpeza, padronização e organização inicial dos dados
+- **No Power BI**: criação de colunas calculadas, medidas e ajustes finais
 
 Essa abordagem garantiu maior qualidade dos dados e melhor desempenho no dashboard.
 
-📈 Análises Desenvolvidas no Dashboard
+---
 
-O painel final apresenta as seguintes análises:
+## 📈 Análises Desenvolvidas no Dashboard
+O dashboard final apresenta as seguintes análises:
+- Faturamento total
+- Ticket médio
+- Produtos mais vendidos
+- Volume de vendas por período
+- Desempenho mensal
+- Evolução das vendas ao longo do tempo
 
-Faturamento total
-Ticket médio
-Produtos mais vendidos
-Volume de vendas por período
-Desempenho mensal
-Evolução das vendas ao longo do tempo
+Cada visual foi construído com foco em leitura intuitiva e apoio à tomada de decisão.
 
-As visualizações foram desenvolvidas com foco em clareza, permitindo identificar padrões e oportunidades de melhoria.
+---
 
-📊 Painel Final
-
+## 📊 Dashboard Final
 O dashboard foi desenvolvido seguindo princípios de:
+- Visual limpo e organizado
+- KPIs claros e objetivos
+- Storytelling orientado ao negócio
 
-Visual limpo e organizado
-Indicadores claros e objetivos
-Facilidade de interpretação
-Foco em tomada de decisão
+<img width="1435" height="806" alt="image" src="LINK_DO_PRINT_DO_DASHBOARD" />
 
-imagem
+---
 
-📚 Principais Aprendizados
-
+## 📚 Principais Aprendizados
 Durante o desenvolvimento deste projeto, pude aprofundar conhecimentos em:
+- Tratamento e organização de dados
+- Criação de indicadores de desempenho (KPIs)
+- Análise de dados comerciais no Power BI
+- Importância do storytelling na visualização de dados
 
-Tratamento e organização de dados
-Criação de indicadores de desempenho (KPIs)
-Uso do Power BI para análise de dados comerciais
-Importância do storytelling na visualização de dados
-🚀 Considerações Finais
+---
 
-Este projeto faz parte do meu portfólio pessoal e tem como objetivo demonstrar minhas competências em análise de dados, BI e visualização, aplicadas a um cenário de vendas.
+## 🚀 Considerações Finais
+Este projeto faz parte do meu portfólio pessoal e tem como objetivo demonstrar minhas
+competências em análise de dados, BI e visualização, aplicadas a um cenário de vendas.
 
 Estou em constante evolução e aberto a feedbacks e sugestões para aprimorar ainda mais meus projetos.
